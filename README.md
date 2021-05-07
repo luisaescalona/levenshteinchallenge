@@ -34,3 +34,9 @@ NOTE: In all my years of experience, I’ve never used Spring before. It took me
 The Client (about 30 min) 
 ----------
 To test the API, I developed a simple web form containing the fields Word, List of words and Tolerance. The form makes a submit of the data to the server and receives a JSON, that is shown on the page as the result.
+A copy of the client html file is in the "client" folder.
+
+Live testing
+------------
+A working client web page, developed with VueJS, is available at http://lescalona.de-fra1.cloudjiffy.net
+A working API is available at http://node66308-lescalona.de-fra1.cloudjiffy.net:11101
