@@ -28,6 +28,7 @@ The API (about 1 hour)
 I created a new Spring Boot Project and added the classes to do the calculation.
 To handle the request, I first tested with GetMapping that sends an object with the frequency and the similars’ array. It always worked fine and return the expected value. 
 Then, I changed to a PostMapping that receives and sends JSON. And also, I modified the Cors registry to accept requests from anywhere.
+
 NOTE: In all my years of experience, I’ve never used Spring before. It took me a little to know the syntaxes. I’m used to changing platforms and languages, so it was no problem.
 
 The Client (about 30 min) 
