@@ -38,5 +38,5 @@ A copy of the client html file is in the "client" folder.
 
 Live testing
 ------------
-A working client web page, developed with VueJS, is available at http://lescalona.de-fra1.cloudjiffy.net
-A working API is available at http://node66308-lescalona.de-fra1.cloudjiffy.net:11101
+A working client web page, developed with VueJS, is available at http://lescalona.de-fra1.cloudjiffy.net.
+A working API is available at http://node66308-lescalona.de-fra1.cloudjiffy.net:11101.
